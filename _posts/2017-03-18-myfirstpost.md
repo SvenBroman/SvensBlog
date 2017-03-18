@@ -6,12 +6,12 @@ published: false
 
 I hope this will work out.
 here is a picture![My Picture]({{site.baseurl}}/_posts/IMG_0118 (1).JPG)
-### This is a list
+### This is a list.
 -one
 -two
 -three
 
-### This is a different list
+### This is a different list.
 1. one
 2. two
 3. three
